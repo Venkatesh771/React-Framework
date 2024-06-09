@@ -1,4 +1,4 @@
-<h2 align="center">React Frame Work.</h2>
+<h2 align="center">React.js Frame Work.</h2>
 
 <h3 align="center">To-Do List</h3>
 

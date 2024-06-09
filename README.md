@@ -1,6 +1,6 @@
 React Framework
 
-To-DO App
+To-Do List App
 
 ![Todo Image](https://github.com/Venkatesh771/React-Framework/assets/126060585/c0fda1bc-fe50-4c09-929d-be73a965796f)
 
